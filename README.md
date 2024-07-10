@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **konajayashankar@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1NDF8iNjWG1WluffT__EXlnyYZcM-cs8q/view](https://drive.google.com/file/d/1NDF8iNjWG1WluffT__EXlnyYZcM-cs8q/view)
+- 📄 Know about my experiences [Resume/view](https://drive.google.com/file/d/1PHiATiN7tq6yUFfVWWCASblg5_O5Cvr1/view)
 
 - ⚡ Fun fact **Iam Ambivert**
 
