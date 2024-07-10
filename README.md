@@ -10,7 +10,7 @@
 - 📄 Know about my experiences [Resume/view](https://drive.google.com/file/d/1PHiATiN7tq6yUFfVWWCASblg5_O5Cvr1/view)
 
 - ⚡ Fun fact **Iam Ambivert**
-
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jayashankar kona" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayashankar kona" height="30" width="40" /></a>
